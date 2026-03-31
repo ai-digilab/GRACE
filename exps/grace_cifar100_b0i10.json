@@ -1,0 +1,21 @@
+{
+    "prefix": "reproduce",
+    "dataset": "cifar100",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 10,
+    "increment": 10,
+    "model_name": "grace",
+    "convnet_type": "resnet32",
+    "device": ["0"],
+    "seed": [1993],
+    "t_base": 0.6,
+    "t_decay": 0.96,
+    "preservation_exponent": 5,
+    "c_kd_factor": 0.4,
+    "c_pred_factor": 1.6,
+    "pretrain_path": "./pretrained/cifar100_b10.pt",
+    "save_path": "./trained_models"
+}
