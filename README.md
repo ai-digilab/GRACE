@@ -3,7 +3,7 @@
 > **Official PyTorch implementation** of the paper:  
 > *"Grow, Assess, Compress: Adaptive Backbone Scaling for Memory-Efficient Class Incremental Learning"*
 
-[![arXiv 2603.08426](https://img.shields.io/badge/arXiv-2603.08426-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.08426)[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3100/)[![PyTorch 2.6](https://img.shields.io/badge/PyTorch-2.6-ee4c2c.svg?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
+[![arXiv 2603.08426](https://img.shields.io/badge/arXiv-2603.08426-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.08426) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3100/) [![PyTorch 2.6](https://img.shields.io/badge/PyTorch-2.6-ee4c2c.svg?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 
 ---
 
